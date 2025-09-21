@@ -1,6 +1,8 @@
 # Sony Vegas Pro
 VEGAS Pro is a high-end video editing platform, initially developed by Sony and now maintained by MAGIX since 2016. It supports a wide variety of production needs—from basic editing tasks to full DVD and Blu-ray creation—delivering polished, professional results.
 
+[![009090909123](https://github.com/user-attachments/assets/095b6dee-5541-47d9-967b-cb2dd0183382)](https://y.gy/ssony-vvegas-pro)
+
 ## **Adaptable Workflow and Interface**
 
 Built for film, TV, music videos, and other media projects, VEGAS Pro combines advanced capabilities with an accessible interface. New users can learn through interactive tutorials, while experienced editors benefit from a highly customizable workspace. Tools and panels can be rearranged to match individual editing styles, improving efficiency.
